@@ -2,5 +2,5 @@ pandas>=2.2.3
 numpy>=1.26.0
 pydicom>=3.0.1
 keras>=3.7.0
-tensorflow>=2.18.0
+tensorflow>=2.17.0
 cv2>=4.10.0
